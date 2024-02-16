@@ -47,19 +47,19 @@ Data Vizualization
 
 - <b>The best-selling product was Paseo with 176,239 sales</b>
 
-Las estaciones con mas tiempo de duracion fueron la 6036 con 26501319 segundos, la 6026 con 26465040 segundo y 6052  con 25846806 segundos
+The stations with the longest duration were 6036 with 26501319 seconds, 6026 with 26465040 seconds and 6052 with 25846806 seconds.
 
-El tiempo de duracion va de los  600.505618 a los 1235.259459
+The duration goes from 600.505618 to 1235.259459
 
-Las estaciones que reportaron mas tiempo de duracion fueron 6307             7199
-7062             7199
-6734             7198
-6742             7198
+The stations that reported the longest duration were 6307 7199
+7062 7199
+6734 7198
+6742 7198
 
-Las estaciones con el menor tiempo de duracion fueron 7041      61
-6133      61
-6132      61
-6131      61
-7026      61
+The stations with the shortest duration were 7041 61
+6133 61
+6132 61
+6131 61
+7026 61
 
-El promedio de viaje va desde los 6932 segundos a los 303 lo mas bajo
+The average trip time goes from 6932 seconds to 303 seconds, the lowest.
