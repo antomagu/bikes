@@ -27,7 +27,7 @@ Join the Data into one
   
 Clean the Data
 
-![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+![Cleaning data]()
 
 Here you can see the full analysis If you want to see the entire R code click **[HERE](https://www.kaggle.com/antonioguev/hr-employee-information)**:
 
@@ -35,6 +35,8 @@ Here you can see the full analysis If you want to see the entire R code click **
   
 Data Vizualization
 
-![Cleaning data](https://github.com/antomagu/bikes/blob/main/pie%20chart.png)
+![Data Vizualization](https://github.com/antomagu/bikes/blob/main/pie%20chart.png)
+
+![Data Vizualization](https://github.com/antomagu/bikes/blob/main/time%2C%20is%20member%20per%20month.png)
 
 <h2>Conclusions</h2>  
