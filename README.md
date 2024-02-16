@@ -15,7 +15,7 @@
   
 Import the Data 
 
-![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+![Cleaning data](https://github.com/antomagu/bikes/blob/main/impor%20data.png)
 
 <p align="center">
   
