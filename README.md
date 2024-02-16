@@ -9,3 +9,32 @@
 |<b> Deliverables </b>  | - <b>An informational dashboard describing your findings and recommendations </b> | |
 |<b> Dataset list </b> |- <b> The data was extracted from Kaggel https://www.kaggle.com/datasets/jackywang529/bixi-montreal-bikeshare-data/versions/3</b>|  |
 |<b>Important indicators  </b>  | - <b>Is Member</b>  - <b>Day of the Week</b>  - <b> Month</b> - <b> Start Date</b> - <b> Station Code</b>     | |
+
+<h2>Data transformation and Data preparation:</h2>  
+<p align="center">
+  
+Import the Data 
+
+![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+
+<p align="center">
+  
+Join the Data into one
+
+![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+
+<p align="center">
+  
+Clean the Data
+
+![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+
+Here you can see the full analysis If you want to see the entire R code click **[HERE](https://www.kaggle.com/antonioguev/hr-employee-information)**:
+
+<p align="center">
+  
+Data Vizualization
+
+![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+
+<h2>Conclusions</h2>  
