@@ -21,7 +21,7 @@ Import the Data
   
 Join the Data into one
 
-![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+![Cleaning data](https://github.com/antomagu/bikes/blob/main/join%20the%20data.png)
 
 <p align="center">
   
