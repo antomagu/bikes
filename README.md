@@ -40,3 +40,26 @@ Data Vizualization
 ![Data Vizualization](https://github.com/antomagu/bikes/blob/main/time%2C%20is%20member%20per%20month.png)
 
 <h2>Conclusions</h2>  
+
+ <b>The total number of users who are members in the months of June to August were 2462394, 79.9% of the total</b> 
+
+- <b>On the contrary, non-members were 619,446, this represents 20.1%.</b>
+
+- <b>The best-selling product was Paseo with 176,239 sales</b>
+
+Las estaciones con mas tiempo de duracion fueron la 6036 con 26501319 segundos, la 6026 con 26465040 segundo y 6052  con 25846806 segundos
+
+El tiempo de duracion va de los  600.505618 a los 1235.259459
+
+Las estaciones que reportaron mas tiempo de duracion fueron 6307             7199
+7062             7199
+6734             7198
+6742             7198
+
+Las estaciones con el menor tiempo de duracion fueron 7041      61
+6133      61
+6132      61
+6131      61
+7026      61
+
+El promedio de viaje va desde los 6932 segundos a los 303 lo mas bajo
