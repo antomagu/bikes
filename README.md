@@ -35,6 +35,6 @@ Here you can see the full analysis If you want to see the entire R code click **
   
 Data Vizualization
 
-![Cleaning data](https://github.com/antomagu/RProject/assets/152213287/95705fec-06fb-4d0f-af82-ea9ba7109128.png)
+![Cleaning data](https://github.com/antomagu/bikes/blob/main/pie%20chart.png)
 
 <h2>Conclusions</h2>  
