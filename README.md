@@ -41,25 +41,19 @@ Data Vizualization
 
 <h2>Conclusions</h2>  
 
- <b>The total number of users who are members in the months of June to August were 2462394, 79.9% of the total</b> 
+- <b> The total number of users who are members in the months of June to August were 2462394, 79.9% of the total</b> 
 
 - <b>On the contrary, non-members were 619,446, this represents 20.1%.</b>
 
-- <b>The best-selling product was Paseo with 176,239 sales</b>
-
-The stations with the longest duration were 6036 with 26501319 seconds, 6026 with 26465040 seconds and 6052 with 25846806 seconds.
-
-The duration goes from 600.505618 to 1235.259459
-
-The stations that reported the longest duration were 6307 7199
+- <b>The stations that reported the longest duration were 6307 7199
 7062 7199
 6734 7198
-6742 7198
+6742 7198 </b>
 
-The stations with the shortest duration were 7041 61
+- <b>The stations with the shortest duration were 7041 61
 6133 61
 6132 61
 6131 61
-7026 61
+7026 61</b>
 
-The average trip time goes from 6932 seconds to 303 seconds, the lowest.
+- <b>The average trip time goes from 6932 seconds to 303 seconds, the lowest.</b>
