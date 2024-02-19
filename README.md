@@ -29,7 +29,7 @@ Clean the Data
 
 ![Cleaning data](https://github.com/antomagu/bikes/blob/main/Captura%20de%20pantalla%202024-02-16%20125222.png)
 
-If you want to see the entire Python code click **[HERE](https://www.kaggle.com/antonioguev/bikes)**:
+If you want to see the entire Python code click **[HERE](https://www.kaggle.com/code/antonioguev/bikes-en-python)**:
 
 <p align="center">
   
