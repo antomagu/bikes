@@ -37,7 +37,7 @@ Data Vizualization
 
 ![Data Vizualization](https://github.com/antomagu/bikes/blob/main/viz1.png)
 
-![Data Vizualization](https://github.com/antomagu/bikes/blob/main/time%2C%20is%20member%20per%20month.png)
+![Data Vizualization](https://github.com/antomagu/bikes/blob/main/viz2.png)
 
 <h2>Conclusions</h2>  
 
