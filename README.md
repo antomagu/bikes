@@ -35,7 +35,7 @@ If you want to see the entire Python code click **[HERE](https://www.kaggle.com/
   
 Data Vizualization
 
-![Data Vizualization](https://github.com/antomagu/bikes/blob/main/pie%20chart.png)
+![Data Vizualization](https://github.com/antomagu/bikes/blob/main/viz1.png)
 
 ![Data Vizualization](https://github.com/antomagu/bikes/blob/main/time%2C%20is%20member%20per%20month.png)
 
