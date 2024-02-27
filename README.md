@@ -5,7 +5,7 @@
 | <b>Industry focus  </b> | - <b>Public transport </b> |  |
 |<b> Description  </b>  | - <b>The project addresses different metrics of the public bicycle system of the city of Montreal, Quebec, Canada, with relevant information that helps us improve the service, stations.</b> | |
 |<b> Objective </b> | - <b>The objective is to analyze and create graphs to represent the data from the months June, July, summer 2019, the important metrics will be the percentage and number of people who are members, the average distances they travel as well as the plus and minus seasons. used this season. In addition to the differences between the months to be analyzed. </b> |  |
-|<b> Tools used  </b> | - <b>Pyhton</b> - <b>Tableau</b>|  |
+|<b> Tools used  </b> | - <b>Pyhton</b> - |
 |<b> Deliverables </b>  | - <b>An informational dashboard describing your findings and recommendations </b> | |
 |<b> Dataset list </b> |- <b> The data was extracted from Kaggel https://www.kaggle.com/datasets/jackywang529/bixi-montreal-bikeshare-data/versions/3</b>|  |
 |<b>Important indicators  </b>  | - <b>Is Member</b>  - <b>Day of the Week</b>  - <b> Month</b> - <b> Start Date</b> - <b> Station Code</b>     | |
@@ -46,14 +46,14 @@ Data Vizualization
 - <b>On the contrary, non-members were 619,446, this represents 20.1%.</b>
 
 - <b>The stations that reported the longest duration were 6307 7199
-7062 7199
-6734 7198
-6742 7198 </b>
+7062 
+6734 
+6742  </b>
 
 - <b>The stations with the shortest duration were 7041 61
-6133 61
-6132 61
-6131 61
-7026 61</b>
+6133 
+6132 
+6131 
+7026 </b>
 
 - <b>The average trip time goes from 6932 seconds to 303 seconds, the lowest.</b>
