@@ -45,15 +45,15 @@ Data Vizualization
 
 - <b>On the contrary, non-members were 619,446, this represents 20.1%.</b>
 
-- <b>The stations that reported the longest duration were 6307 7199
-7062 
-6734 
+- <b>The stations that reported the longest duration were 6307,
+7062, 
+6734, 
 6742  </b>
 
-- <b>The stations with the shortest duration were 7041 61
-6133 
-6132 
-6131 
+- <b>The stations with the shortest duration were 7041,
+6133, 
+6132, 
+6131, 
 7026 </b>
 
 - <b>The average trip time goes from 6932 seconds to 303 seconds, the lowest.</b>
