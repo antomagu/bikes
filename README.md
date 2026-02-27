@@ -134,7 +134,7 @@
 
 -GitHub Repository: github.com/antomagu/bikes 
 
--Full Analysis (Kaggle): View Jupyter Notebook 
+-Full Analysis (Kaggle): https://www.kaggle.com/code/antonioguev/bikes-en-python?scriptVersionId=163493117
 
 -Dataset Source:  https://www.kaggle.com/datasets/jackywang529/bixi-montreal-bikeshare-data/versions/3
 
